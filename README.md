@@ -4,7 +4,7 @@
 
 ## Why this snippets
 
-Same as https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux but for the use who like the Standard style.
+Same as https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux but for the user who like the Standard style.
 
 ## Usage
 
